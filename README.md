@@ -98,30 +98,30 @@ Flask • SQLAlchemy • Bootstrap
 
 A behavior-focused system designed to help users **start and complete tasks consistently** through intelligent prompts and adaptive interaction.
 
- ##Focus:
+ **Focus:**
 
 * Reducing task-start friction
 * Behavior tracking and feedback loops
 * Intelligent prompting system
 
-##My Role
+**My Role:**
 
 * System architecture design
 * Backend logic and user interaction flow
 * Intent detection and response system
 
-## Core Capabilities
+**Core Capabilities:**
 
 * Scheduled check-ins (morning, afternoon, evening)
 * Intent detection (starting, done, stuck, avoiding)
 * Adaptive responses based on user behavior
 * Admin-controlled messaging system
 
-##Stack
+**Stack:**
 
 Python • Telegram API • SQLite • Scheduling system
 
- ##🔮 Vision
+ **Vision:**
 
 To evolve Stride into a full platform that combines:
 
@@ -149,7 +149,7 @@ Flask • FastAPI
 
 ### Embedded / IoT
 
-ESP32 • Raspberry Pi • GPIO
+ESP32 • Raspberry Pi • GPIO 
 
 ---
 
@@ -161,6 +161,6 @@ HTML • CSS • Bootstrap
 
 ### Tools
 
-Git • GitHub • SQLite
+Git • GitHub 
 
 ---
