@@ -10,7 +10,7 @@ Currently working on integrating **Raspberry Pi, sensors, and AI systems** into 
 
 ## 🔭 Currently Working On
 
-* 🧠 **ZeroClaw Smart Home System** (AI + real device control)
+* 🧠 **ZeroClaw Smart Home System** (AI + real device control) As My Graduation Project
 * 🎮 **ESP32 Embedded Handheld Console**
 * 🚀 **Stride (startup – in progress, currently private)**
 * 🌐 Full-stack systems for real-world applications
